@@ -31,7 +31,6 @@ Leet Code problem solutions for that I have done.
 | 125 | Valid Palindrome | Easy | Python |
 | 136 | Single Number | Easy | Python |
 | 151 | Reverse Words in a String | Medium | Python |
-| 167 | Two Sum II – Input Array Is Sorted | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
@@ -41,6 +40,7 @@ Leet Code problem solutions for that I have done.
 | 242 | Valid Anagram | Easy | Python |
 | 258 | Add Digits | Easy | Python |
 | 283 | Move Zeroes | Easy | Python |
+| 326 | Power of Three | Easy | Python |
 | 344 | Reverse String | Easy | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 367 | Valid Perfect Square | Easy | Python |
@@ -70,8 +70,8 @@ Leet Code problem solutions for that I have done.
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python |
 | 3190 | Minimum Operations to Make All Elements Divisible by Three | Easy | Python |
-| 326 | Power of Three | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
+| 3467 | Transform Array By Parity | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 3516 | Find Closest Person | Easy | Python |
 | 3701 | Compute Alternating Sum | Easy | Python |
@@ -82,7 +82,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 47 |
-| 🟡 Medium | 11 |
+| 🟢 Easy | 57 |
+| 🟡 Medium | 13 |
 | 🔴 Hard | 2 |
 | **Total Solved** | **60** |
