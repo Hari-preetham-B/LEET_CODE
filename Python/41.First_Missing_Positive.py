@@ -1,1 +1,8 @@
-
+class Solution(object):
+    def firstMissingPositive(self, nums):
+        seen=set(nums)
+        i=1
+        while i in seen:
+            i+=1
+        return i
+        
