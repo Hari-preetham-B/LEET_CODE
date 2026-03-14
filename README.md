@@ -67,6 +67,7 @@ Leet Code problem solutions for that I have done.
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2469 | Convert the Temperature | Easy | Python |
 | 2525 | Categorize Box According to Criteria | Easy | Python |
+| 2703 | Returning Lenght of Arguments Passed | Easy | JavaScript |
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python |
