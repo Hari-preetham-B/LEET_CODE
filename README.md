@@ -12,7 +12,7 @@ Leet Code problem solutions for that I have done.
 | 9 | Palindrome Number | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 19 | Remove Nth Node From End of List | Medium | C |
-| 21 | Merge Two Sorted Lists | Easy | Python |
+| 21 | Merge Two Sorted Lists | Easy | C |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
@@ -26,6 +26,7 @@ Leet Code problem solutions for that I have done.
 | 67 | Add Binary | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
+| 83 | Remove Duplicates from Sorted List | Easy | C |
 | 118 | Pascal's Triangle | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 125 | Valid Palindrome | Easy | Python |
