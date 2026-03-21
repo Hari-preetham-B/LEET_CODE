@@ -18,6 +18,7 @@ Leet Code problem solutions for that I have done.
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 35 | Search Insert Position | Easy | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 49 | Group Anagrams | Medium | Python |
@@ -88,6 +89,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 58 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 16 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **75** |
+| **Total Solved** | **76** |
