@@ -13,6 +13,7 @@ Leet Code problem solutions for that I have done.
 | 8 | String to Integer (atoi) | Mediun | Python |
 | 9 | Palindrome Number | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
+| 13 | Roman to Integer | Easy | Java |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 20 | Valid Parentheses | Easy | Python|
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -88,7 +89,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 58 |
+| 🟢 Easy | 59 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **76** |
+| **Total Solved** | **77** |
