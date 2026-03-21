@@ -10,6 +10,7 @@ Leet Code problem solutions for that I have done.
 | 4 | Median of Two Sorted Arrays | Hard | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 7 | Reverse Integer | Medium | Python |
+| 8 | String to Integer (atoi) | Mediun | Python |
 | 9 | Palindrome Number | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 19 | Remove Nth Node From End of List | Medium | C |
@@ -87,6 +88,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 58 |
-| 🟡 Medium | 14 |
+| 🟡 Medium | 15 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **74** |
+| **Total Solved** | **75** |
