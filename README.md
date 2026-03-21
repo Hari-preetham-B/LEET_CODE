@@ -34,6 +34,7 @@ Leet Code problem solutions for that I have done.
 | 69 | Sqrt(x) | Easy | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
+| 94 | Binary Tree Inorder Traversal | Easy | Python3 |
 | 118 | Pascal's Triangle | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 125 | Valid Palindrome | Easy | Python |
@@ -91,7 +92,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 61 |
+| 🟢 Easy | 62 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **79** |
+| **Total Solved** | **80** |
