@@ -17,6 +17,7 @@ Leet Code problem solutions for that I have done.
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 20 | Valid Parentheses | Easy | Python|
 | 21 | Merge Two Sorted Lists | Easy | C |
+| 26 | Remove Duplicates from Sorted Array | Easy | Java |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
@@ -89,7 +90,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 59 |
+| 🟢 Easy | 60 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **77** |
+| **Total Solved** | **78** |
