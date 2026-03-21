@@ -13,6 +13,7 @@ Leet Code problem solutions for that I have done.
 | 9 | Palindrome Number | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 19 | Remove Nth Node From End of List | Medium | C |
+| 20 | Valid Parentheses | Easy | Python|
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
@@ -85,7 +86,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 57 |
+| 🟢 Easy | 58 |
 | 🟡 Medium | 14 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **73** |
+| **Total Solved** | **74** |
