@@ -15,6 +15,7 @@ Leet Code problem solutions for that I have done.
 | 11 | Container With Most Water | Medium | Python |
 | 13 | Roman to Integer | Easy | Java |
 | 14 | Longest Common Prefix | Easy | Python |
+| 15 | 3Sum | Medium | Python |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 20 | Valid Parentheses | Easy | Python|
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -95,6 +96,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 63 |
-| 🟡 Medium | 17 |
+| 🟡 Medium | 18 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **82** |
+| **Total Solved** | **83** |
