@@ -40,6 +40,7 @@ Leet Code problem solutions for that I have done.
 | 125 | Valid Palindrome | Easy | Python |
 | 136 | Single Number | Easy | Python |
 | 151 | Reverse Words in a String | Medium | Python |
+| 172 | Factorial Trailing Zeroes | Meidum | Python |
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
@@ -93,6 +94,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 62 |
-| 🟡 Medium | 16 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **80** |
+| **Total Solved** | **81** |
