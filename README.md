@@ -72,6 +72,7 @@ Leet Code problem solutions for that I have done.
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | Python |
 | 1672 | Richest Customer Wealth | Easy | Python |
 | 1768 | Merge Strings Alternately | Easy | Python |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
 | 1929 | Concatenation of Array | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2469 | Convert the Temperature | Easy | Python |
@@ -93,7 +94,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 62 |
+| 🟢 Easy | 63 |
 | 🟡 Medium | 17 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **81** |
+| **Total Solved** | **82** |
