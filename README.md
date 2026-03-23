@@ -6,6 +6,7 @@ Leet Code problem solutions for that I have done.
 | # | Problem | Difficulty | Language |
 |---|---------|------------|----------|
 | 1 | Two Sum | Easy | Python |
+| 2 | Add Two Numbers | Medium | C |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 4 | Median of Two Sorted Arrays | Hard | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -97,6 +98,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 64 |
-| 🟡 Medium | 18 |
+| 🟡 Medium | 19 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **84** |
+| **Total Solved** | **85** |
