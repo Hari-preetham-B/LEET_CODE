@@ -40,6 +40,7 @@ Leet Code problem solutions for that I have done.
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 125 | Valid Palindrome | Easy | Python |
 | 136 | Single Number | Easy | Python |
+| 141 | Linked List Cycle | Easy | C |
 | 151 | Reverse Words in a String | Medium | Python |
 | 172 | Factorial Trailing Zeroes | Meidum | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -95,7 +96,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 63 |
+| 🟢 Easy | 64 |
 | 🟡 Medium | 18 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **83** |
+| **Total Solved** | **84** |
