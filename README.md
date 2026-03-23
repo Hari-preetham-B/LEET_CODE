@@ -65,6 +65,7 @@ Leet Code problem solutions for that I have done.
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 771 | Jewels and Stones | Easy | Python |
+| 876 | Middle of the Linked List | Easy | C |
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1137 | N-th Tribonacci Number | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
@@ -97,7 +98,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 64 |
+| 🟢 Easy | 65 |
 | 🟡 Medium | 19 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **85** |
+| **Total Solved** | **86** |
