@@ -42,6 +42,7 @@ Leet Code problem solutions for that I have done.
 | 125 | Valid Palindrome | Easy | Python |
 | 136 | Single Number | Easy | Python |
 | 141 | Linked List Cycle | Easy | C |
+| 148 | Sort List | Medium | C |
 | 151 | Reverse Words in a String | Medium | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 172 | Factorial Trailing Zeroes | Meidum | Python |
@@ -100,6 +101,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 19 |
+| 🟡 Medium | 20 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **87** |
+| **Total Solved** | **88** |
