@@ -71,6 +71,7 @@ Leet Code problem solutions for that I have done.
 | 876 | Middle of the Linked List | Easy | C |
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1137 | N-th Tribonacci Number | Easy | Python |
+| 1282 | Group the People Given the Group Size They Belong To | Medium | Python |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
 | 1431 | Kids With the Greatest Number of Candies | Easy | Python |
 | 1470 | Shuffle the Array | Easy | Python |
@@ -102,6 +103,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 21 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **89** |
+| **Total Solved** | **90** |
