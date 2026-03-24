@@ -64,6 +64,7 @@ Leet Code problem solutions for that I have done.
 | 389 | Find the Difference | Easy | Python |
 | 412 | Fizz Buzz | Easy | Python |
 | 509 | Fibonacci Number | Easy | Python |
+| 535 | Encode and Decode TinyURL | Medium | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
@@ -103,6 +104,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 23 |
+| 🟡 Medium | 24 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **91** |
+| **Total Solved** | **92** |
