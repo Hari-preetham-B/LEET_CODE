@@ -25,6 +25,7 @@ Leet Code problem solutions for that I have done.
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 35 | Search Insert Position | Easy | Python |
+| 36 | Valid Sudoku | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 49 | Group Anagrams | Medium | Python |
 | 50 | Pow(x, n) | Medium | C |
@@ -101,6 +102,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 20 |
+| 🟡 Medium | 21 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **88** |
+| **Total Solved** | **89** |
