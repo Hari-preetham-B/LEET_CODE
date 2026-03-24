@@ -43,6 +43,7 @@ Leet Code problem solutions for that I have done.
 | 136 | Single Number | Easy | Python |
 | 141 | Linked List Cycle | Easy | C |
 | 151 | Reverse Words in a String | Medium | Python |
+| 160 | Intersection of Two Linked Lists | Easy | C |
 | 172 | Factorial Trailing Zeroes | Meidum | Python |
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
@@ -98,7 +99,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 65 |
+| 🟢 Easy | 66 |
 | 🟡 Medium | 19 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **86** |
+| **Total Solved** | **87** |
