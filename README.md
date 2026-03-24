@@ -95,7 +95,7 @@ Leet Code problem solutions for that I have done.
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 3516 | Find Closest Person | Easy | Python |
 | 3701 | Compute Alternating Sum | Easy | Python |
-
+| 3760 | Maximum Substrings With Distinct Start | Medium | Python |
 
 
 ## 📊 Progress
@@ -103,6 +103,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 22 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **90** |
+| **Total Solved** | **91** |
