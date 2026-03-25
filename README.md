@@ -64,6 +64,7 @@ Leet Code problem solutions for that I have done.
 | 389 | Find the Difference | Easy | Python |
 | 412 | Fizz Buzz | Easy | Python |
 | 509 | Fibonacci Number | Easy | Python |
+| 523 | Continuous Subarray Sum | Medium | Python |
 | 535 | Encode and Decode TinyURL | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 709 | To Lower Case | Easy | Python |
@@ -105,6 +106,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 25 |
+| 🟡 Medium | 26 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **93** |
+| **Total Solved** | **94** |
