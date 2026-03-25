@@ -65,6 +65,7 @@ Leet Code problem solutions for that I have done.
 | 412 | Fizz Buzz | Easy | Python |
 | 509 | Fibonacci Number | Easy | Python |
 | 535 | Encode and Decode TinyURL | Medium | Python |
+| 560 | Subarray Sum Equals K | Medium | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
@@ -104,6 +105,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 66 |
-| 🟡 Medium | 24 |
+| 🟡 Medium | 25 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **92** |
+| **Total Solved** | **93** |
