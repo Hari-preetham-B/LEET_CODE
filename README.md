@@ -74,6 +74,7 @@ Leet Code problem solutions for that I have done.
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 771 | Jewels and Stones | Easy | Python |
 | 876 | Middle of the Linked List | Easy | C |
+| 974 | Subarray Sums Divisible by K | Medium | Python | 
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1137 | N-th Tribonacci Number | Easy | Python |
 | 1282 | Group the People Given the Group Size They Belong To | Medium | Python |
@@ -108,6 +109,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 67 |
-| 🟡 Medium | 27 |
+| 🟡 Medium | 28 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **96** |
+| **Total Solved** | **97** |
