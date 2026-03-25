@@ -41,6 +41,7 @@ Leet Code problem solutions for that I have done.
 | 118 | Pascal's Triangle | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 125 | Valid Palindrome | Easy | Python |
+| 128 | Longest Consecutive Sequence | Medium | Python |
 | 136 | Single Number | Easy | Python |
 | 141 | Linked List Cycle | Easy | C |
 | 148 | Sort List | Medium | C |
@@ -107,6 +108,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 67 |
-| 🟡 Medium | 26 |
+| 🟡 Medium | 27 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **95** |
+| **Total Solved** | **96** |
