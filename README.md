@@ -36,6 +36,7 @@ Leet Code problem solutions for that I have done.
 | 67 | Add Binary | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
+| 76 | Minimum Window Substring | Hard | Python |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
 | 94 | Binary Tree Inorder Traversal | Easy | Python3 |
 | 118 | Pascal's Triangle | Easy | Python |
@@ -111,5 +112,5 @@ Leet Code problem solutions for that I have done.
 |------------|--------|
 | 🟢 Easy | 67 |
 | 🟡 Medium | 29 |
-| 🔴 Hard | 2 |
-| **Total Solved** | **98** |
+| 🔴 Hard | 3 |
+| **Total Solved** | **99** |
