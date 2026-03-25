@@ -61,6 +61,7 @@ Leet Code problem solutions for that I have done.
 | 347 | Top K Frequent Elements | Medium | Python |
 | 367 | Valid Perfect Square | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
+| 387 | First Unique Character in a String | Easy | Python |
 | 389 | Find the Difference | Easy | Python |
 | 412 | Fizz Buzz | Easy | Python |
 | 509 | Fibonacci Number | Easy | Python |
@@ -105,7 +106,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 66 |
+| 🟢 Easy | 67 |
 | 🟡 Medium | 26 |
 | 🔴 Hard | 2 |
-| **Total Solved** | **94** |
+| **Total Solved** | **95** |
