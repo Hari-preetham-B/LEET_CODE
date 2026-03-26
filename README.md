@@ -87,6 +87,7 @@ Leet Code problem solutions for that I have done.
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | Python |
 | 1672 | Richest Customer Wealth | Easy | Python |
+| 1710 | Maximum Units on a Truck | Easy | Python | 
 | 1768 | Merge Strings Alternately | Easy | Python |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
 | 1929 | Concatenation of Array | Easy | Python |
@@ -110,7 +111,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 67 |
+| 🟢 Easy | 68 |
 | 🟡 Medium | 29 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **99** |
+| **Total Solved** | **100** |
