@@ -52,6 +52,7 @@ Leet Code problem solutions for that I have done.
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
+| 209 | Minimum_Size_Subarray_Sum | Medium |Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 231 | Power of Two | Easy | Python |
 | 238 | Product of Array Except Self | Medium | Python |
@@ -112,6 +113,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 68 |
-| 🟡 Medium | 29 |
+| 🟡 Medium | 30 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **100** |
+| **Total Solved** | **101** |
