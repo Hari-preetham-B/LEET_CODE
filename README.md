@@ -83,6 +83,7 @@ Leet Code problem solutions for that I have done.
 | 1282 | Group the People Given the Group Size They Belong To | Medium | Python |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
 | 1431 | Kids With the Greatest Number of Candies | Easy | Python |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 1470 | Shuffle the Array | Easy | Python |
 | 1480 | Running Sum of 1D Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
@@ -113,6 +114,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 68 |
-| 🟡 Medium | 30 |
+| 🟡 Medium | 31 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **101** |
+| **Total Solved** | **102** |
