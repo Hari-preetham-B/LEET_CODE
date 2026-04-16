@@ -72,6 +72,7 @@ Leet Code problem solutions for that I have done.
 | 523 | Continuous Subarray Sum | Medium | Python |
 | 535 | Encode and Decode TinyURL | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
+| 643 | Maximum Average Subarray I | Easy | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
@@ -113,7 +114,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 68 |
+| 🟢 Easy | 69 |
 | 🟡 Medium | 31 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **102** |
+| **Total Solved** | **103** |
