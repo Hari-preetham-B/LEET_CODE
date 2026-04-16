@@ -72,6 +72,7 @@ Leet Code problem solutions for that I have done.
 | 523 | Continuous Subarray Sum | Medium | Python |
 | 535 | Encode and Decode TinyURL | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
+| 567 | Permutation in String | Medium | Python |
 | 643 | Maximum Average Subarray I | Easy | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
@@ -116,6 +117,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 70 |
-| 🟡 Medium | 31 |
+| 🟡 Medium | 32 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **104** |
+| **Total Solved** | **105** |
