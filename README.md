@@ -67,6 +67,7 @@ Leet Code problem solutions for that I have done.
 | 387 | First Unique Character in a String | Easy | Python |
 | 389 | Find the Difference | Easy | Python |
 | 412 | Fizz Buzz | Easy | Python |
+| 424 | Longest Repeating Character Replacement | Medium | Python |
 | 438 | Find All Anagrams in a String | Medium | Python |
 | 509 | Fibonacci Number | Easy | Python |
 | 523 | Continuous Subarray Sum | Medium | Python |
@@ -117,6 +118,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 70 |
-| 🟡 Medium | 32 |
+| 🟡 Medium | 33 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **105** |
+| **Total Solved** | **106** |
