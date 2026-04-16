@@ -92,6 +92,7 @@ Leet Code problem solutions for that I have done.
 | 1672 | Richest Customer Wealth | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python | 
 | 1768 | Merge Strings Alternately | Easy | Python |
+| 1876 | Substrings of Size Three with Distinct Characters | Easy | Python |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
 | 1929 | Concatenation of Array | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
@@ -114,7 +115,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 69 |
+| 🟢 Easy | 70 |
 | 🟡 Medium | 31 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **103** |
+| **Total Solved** | **104** |
