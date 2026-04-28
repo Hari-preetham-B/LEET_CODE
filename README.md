@@ -38,6 +38,7 @@ Leet Code problem solutions for that I have done.
 | 74 | Search a 2D Matrix | Medium | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
+| 88 | Merge Sorted Array | Easy | Python |
 | 94 | Binary Tree Inorder Traversal | Easy | Python3 |
 | 118 | Pascal's Triangle | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
@@ -119,7 +120,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 71 |
+| 🟢 Easy | 72 |
 | 🟡 Medium | 34 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **108** |
+| **Total Solved** | **109** |
