@@ -61,6 +61,7 @@ Leet Code problem solutions for that I have done.
 | 283 | Move Zeroes | Easy | Python |
 | 326 | Power of Three | Easy | Python |
 | 344 | Reverse String | Easy | Python |
+| 345 | Reverse Vowels of a String | Easy | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 367 | Valid Perfect Square | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
@@ -117,7 +118,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 70 |
+| 🟢 Easy | 71 |
 | 🟡 Medium | 33 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **106** |
+| **Total Solved** | **107** |
