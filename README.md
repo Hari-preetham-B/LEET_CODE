@@ -53,6 +53,7 @@ Leet Code problem solutions for that I have done.
 | 172 | Factorial Trailing Zeroes | Meidum | Python |
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
+| 202 | Happy Number | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 209 | Minimum_Size_Subarray_Sum | Medium |Python |
 | 217 | Contains Duplicate | Easy | Python |
@@ -120,7 +121,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 72 |
+| 🟢 Easy | 73 |
 | 🟡 Medium | 34 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **109** |
+| **Total Solved** | **110** |
