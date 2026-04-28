@@ -48,6 +48,7 @@ Leet Code problem solutions for that I have done.
 | 148 | Sort List | Medium | C |
 | 151 | Reverse Words in a String | Medium | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
 | 172 | Factorial Trailing Zeroes | Meidum | Python |
 | 189 | Rotate Array | Medium | Python |
 | 191 | Number of 1 Bits | Easy | Python |
@@ -119,6 +120,6 @@ Leet Code problem solutions for that I have done.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 71 |
-| 🟡 Medium | 33 |
+| 🟡 Medium | 34 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **107** |
+| **Total Solved** | **108** |
