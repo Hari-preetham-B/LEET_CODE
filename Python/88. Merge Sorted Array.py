@@ -12,3 +12,10 @@ class Solution(object):
                 nums1[k] = nums2[j]
                 j -= 1
             k -= 1
+
+
+#or
+class Solution(object):
+    def merge(self, nums1, m, nums2, n):
+        nums1[:]=nums1[:m]+nums2[:n]
+        nums1.sort()
