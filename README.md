@@ -62,6 +62,7 @@ Leet Code problem solutions for that I have done.
 | 242 | Valid Anagram | Easy | Python |
 | 258 | Add Digits | Easy | Python |
 | 283 | Move Zeroes | Easy | Python |
+| 303 | Range Sum Query - Immutable | Easy | Python |
 | 326 | Power of Three | Easy | Python |
 | 344 | Reverse String | Easy | Python |
 | 345 | Reverse Vowels of a String | Easy | Python |
@@ -121,7 +122,7 @@ Leet Code problem solutions for that I have done.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 73 |
+| 🟢 Easy | 74 |
 | 🟡 Medium | 34 |
 | 🔴 Hard | 3 |
-| **Total Solved** | **110** |
+| **Total Solved** | **111** |
