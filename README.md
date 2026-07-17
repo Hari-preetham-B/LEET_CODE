@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 74 | ![Easy](https://img.shields.io/badge/Easy-74-00b8a3?style=flat-square) |
-| 🟡 Medium | 35 | ![Medium](https://img.shields.io/badge/Medium-35-ffc01e?style=flat-square) |
+| 🟡 Medium | 36 | ![Medium](https://img.shields.io/badge/Medium-36-ffc01e?style=flat-square) |
 | 🔴 Hard | 3 | ![Hard](https://img.shields.io/badge/Hard-3-ef4743?style=flat-square) |
-| **Total** | **112** | ![Total](https://img.shields.io/badge/Total-112-blueviolet?style=flat-square) |
+| **Total** | **113** | ![Total](https://img.shields.io/badge/Total-113-blueviolet?style=flat-square) |
 
 </div>
 
@@ -141,6 +141,7 @@
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | 🟢 Easy | Python |
 | 1929 | Concatenation of Array | 🟢 Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | 🟢 Easy | Python |
+| 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Python |
 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Python |
 | 2469 | Convert the Temperature | 🟢 Easy | Python |
 | 2525 | Categorize Box According to Criteria | 🟢 Easy | Python |
