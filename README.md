@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=111%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
 
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
-[![Problems Solved](https://img.shields.io/badge/Solved-111-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Problems Solved](https://img.shields.io/badge/Solved-113-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Commits](https://img.shields.io/badge/Commits-171-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE/commits/main)
 
