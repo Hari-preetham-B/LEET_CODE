@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 74 | ![Easy](https://img.shields.io/badge/Easy-74-00b8a3?style=flat-square) |
-| 🟡 Medium | 35 | ![Medium](https://img.shields.io/badge/Medium-34-ffc01e?style=flat-square) |
+| 🟡 Medium | 35 | ![Medium](https://img.shields.io/badge/Medium-35-ffc01e?style=flat-square) |
 | 🔴 Hard | 3 | ![Hard](https://img.shields.io/badge/Hard-3-ef4743?style=flat-square) |
-| **Total** | **112** | ![Total](https://img.shields.io/badge/Total-111-blueviolet?style=flat-square) |
+| **Total** | **112** | ![Total](https://img.shields.io/badge/Total-112-blueviolet?style=flat-square) |
 
 </div>
 
