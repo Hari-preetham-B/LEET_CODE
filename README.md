@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=111%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
 
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
-[![Problems Solved](https://img.shields.io/badge/Solved-113-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Problems Solved](https://img.shields.io/badge/Solved-114-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Commits](https://img.shields.io/badge/Commits-171-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE/commits/main)
 
@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 74 | ![Easy](https://img.shields.io/badge/Easy-74-00b8a3?style=flat-square) |
-| 🟡 Medium | 36 | ![Medium](https://img.shields.io/badge/Medium-36-ffc01e?style=flat-square) |
+| 🟡 Medium | 37 | ![Medium](https://img.shields.io/badge/Medium-37-ffc01e?style=flat-square) |
 | 🔴 Hard | 3 | ![Hard](https://img.shields.io/badge/Hard-3-ef4743?style=flat-square) |
-| **Total** | **113** | ![Total](https://img.shields.io/badge/Total-113-blueviolet?style=flat-square) |
+| **Total** | **114** | ![Total](https://img.shields.io/badge/Total-114-blueviolet?style=flat-square) |
 
 </div>
 
@@ -135,6 +135,7 @@
 | 1486 | XOR Operation in an Array | 🟢 Easy | Python |
 | 1502 | Can Make Arithmetic Progression From Sequence | 🟢 Easy | Python |
 | 1672 | Richest Customer Wealth | 🟢 Easy | Python |
+| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | 🟡 Medium | Python |
 | 1710 | Maximum Units on a Truck | 🟢 Easy | Python |
 | 1768 | Merge Strings Alternately | 🟢 Easy | Python |
 | 1876 | Substrings of Size Three with Distinct Characters | 🟢 Easy | Python |
