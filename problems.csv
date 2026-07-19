@@ -115,3 +115,4 @@ number,title,difficulty,language
 3760,Maximum Substrings With Distinct Start,Medium,Python
 1769,Minimum Number of Operations to Move All Balls to Each Box,Medium,Python
 155,Min Stack,Medium,Python
+150,Evaluate Reverse Polish Notation,Medium,Python
