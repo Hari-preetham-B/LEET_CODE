@@ -5,7 +5,7 @@
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
 [![Problems Solved](https://img.shields.io/badge/Solved-117-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
-[![Last Updated](https://img.shields.io/badge/Updated-19%20Jul%202026%2002%3A07%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Last Updated](https://img.shields.io/badge/Updated-19%20Jul%202026%2002%3A09%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
 
 </div>
 
@@ -85,7 +85,7 @@
 | 136 | Single Number | 🟢 Easy | Python |
 | 141 | Linked List Cycle | 🟢 Easy | C |
 | 148 | Sort List | 🟡 Medium | C |
-| 150 | Evaluate Reverse Polish Notation | 🟡 Medium | Python |
+| 150 | Evaluate Reverse Polish Notation  | 🟡 Medium | Python |
 | 151 | Reverse Words in a String | 🟡 Medium | Python |
 | 155 | Min Stack | 🟡 Medium | Python |
 | 160 | Intersection of Two Linked Lists | 🟢 Easy | C |
@@ -167,7 +167,7 @@
 
 > 💡 **"Every problem solved is a new pattern learned."**
 
-*Auto-generated on 19 Jul 2026 02:07 UTC*
+*Auto-generated on 19 Jul 2026 02:09 UTC*
 
 [![Back to Profile](https://img.shields.io/badge/←%20Back%20to%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hari-preetham-B)
 
