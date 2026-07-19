@@ -114,3 +114,4 @@ number,title,difficulty,language
 3701,Compute Alternating Sum,Easy,Python
 3760,Maximum Substrings With Distinct Start,Medium,Python
 1769,Minimum Number of Operations to Move All Balls to Each Box,Medium,Python
+155,Min Stack,Medium,Python
