@@ -119,3 +119,4 @@ number,title,difficulty,language
 42,Trapping Rain Water,Hard,Python
 239,Sliding Window Maximum,Hard,Python
 22,Generate Parentheses,Medium,Python
+739,Daily Temperatures,Medium,Python
