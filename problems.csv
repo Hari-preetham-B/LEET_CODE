@@ -128,3 +128,4 @@ number,title,difficulty,language
 981,Time Based Key-Value Store,Medium,Python
 6,Zigzag Conversion,Medium,Python
 143,Reorder List,Medium,C
+138,Copy List with Random Pointer,Medium,C
