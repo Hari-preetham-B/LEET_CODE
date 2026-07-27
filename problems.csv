@@ -129,3 +129,4 @@ number,title,difficulty,language
 6,Zigzag Conversion,Medium,Python
 143,Reorder List,Medium,C
 138,Copy List with Random Pointer,Medium,C
+23,Merge k Sorted Lists,Hard,C
