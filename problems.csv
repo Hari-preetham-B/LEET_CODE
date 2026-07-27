@@ -130,3 +130,4 @@ number,title,difficulty,language
 143,Reorder List,Medium,C
 138,Copy List with Random Pointer,Medium,C
 23,Merge k Sorted Lists,Hard,C
+146,LRU Cache,Medium,C
