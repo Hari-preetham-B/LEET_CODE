@@ -132,3 +132,4 @@ number,title,difficulty,language
 23,Merge k Sorted Lists,Hard,C
 146,LRU Cache,Medium,C
 1464,Maximum Product of Two Elements in an Array,Easy,Python
+25,Reverse Nodes in k-Group,Hard,C
