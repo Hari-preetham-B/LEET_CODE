@@ -135,3 +135,4 @@ number,title,difficulty,language
 25,Reverse Nodes in k-Group,Hard,C
 226,Invert Binary Tree,Easy,C
 104,Maximum Depth of Binary Tree,Easy,C
+543,Diameter of Binary Tree,Easy,C
