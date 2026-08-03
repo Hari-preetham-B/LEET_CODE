@@ -138,3 +138,4 @@ number,title,difficulty,language
 543,Diameter of Binary Tree,Easy,C
 110,Balanced Binary Tree,Easy,C
 10,Regular Expression Matching,Hard,Python
+1028,Recover a Tree From Preorder Traversal,Hard,C
