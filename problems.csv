@@ -139,3 +139,4 @@ number,title,difficulty,language
 110,Balanced Binary Tree,Easy,C
 10,Regular Expression Matching,Hard,Python
 1028,Recover a Tree From Preorder Traversal,Hard,C
+100,Same Tree,Easy,C
