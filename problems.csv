@@ -141,3 +141,4 @@ number,title,difficulty,language
 1028,Recover a Tree From Preorder Traversal,Hard,C
 100,Same Tree,Easy,C
 572,Subtree of Another Tree,Easy,C
+236,Lowest Common Ancestor of a Binary Tree,Medium,C
