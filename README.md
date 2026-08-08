@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=144%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=145%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
 
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
-[![Problems Solved](https://img.shields.io/badge/Solved-144-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Problems Solved](https://img.shields.io/badge/Solved-145-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
-[![Last Updated](https://img.shields.io/badge/Updated-07%20Aug%202026%2016%3A11%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Last Updated](https://img.shields.io/badge/Updated-08%20Aug%202026%2018%3A22%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
 
 </div>
 
@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 82 | ![Easy](https://img.shields.io/badge/Easy-82-00b8a3?style=flat-square) |
-| 🟡 Medium | 52 | ![Medium](https://img.shields.io/badge/Medium-52-ffc01e?style=flat-square) |
+| 🟡 Medium | 53 | ![Medium](https://img.shields.io/badge/Medium-53-ffc01e?style=flat-square) |
 | 🔴 Hard | 10 | ![Hard](https://img.shields.io/badge/Hard-10-ef4743?style=flat-square) |
-| **Total** | **144** | ![Total](https://img.shields.io/badge/Total-144-blueviolet?style=flat-square) |
+| **Total** | **145** | ![Total](https://img.shields.io/badge/Total-145-blueviolet?style=flat-square) |
 
 </div>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-81.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
-[![C](https://img.shields.io/badge/C-16.7%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
+[![Python](https://img.shields.io/badge/Python-80.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
+[![C](https://img.shields.io/badge/C-17.2%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
 [![Java](https://img.shields.io/badge/Java-1.4%25-007396?style=for-the-badge&logo=oracle&logoColor=white)](./Java)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0.7%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./JavaScript)
 
@@ -108,6 +108,7 @@
 | 172 | Factorial Trailing Zeroes | 🟡 Medium | Python |
 | 189 | Rotate Array | 🟡 Medium | Python |
 | 191 | Number of 1 Bits | 🟢 Easy | Python |
+| 199 | Binary Tree Right Side View | 🟡 Medium | C |
 | 202 | Happy Number | 🟢 Easy | Python |
 | 206 | Reverse Linked List | 🟢 Easy | C |
 | 209 | Minimum Size Subarray Sum | 🟡 Medium | Python |
@@ -194,7 +195,7 @@
 
 > 💡 **"Every problem solved is a new pattern learned."**
 
-*Auto-generated on 07 Aug 2026 16:11 UTC*
+*Auto-generated on 08 Aug 2026 18:22 UTC*
 
 [![Back to Profile](https://img.shields.io/badge/←%20Back%20to%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hari-preetham-B)
 
