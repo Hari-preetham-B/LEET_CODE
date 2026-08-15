@@ -149,3 +149,4 @@ number,title,difficulty,language
 98,Validate Binary Search Tree,Medium,C
 16,3Sum Closest,Medium,Python
 17,Letter Combinations of a Phone Number,Medium,Python
+18,4Sum,Medium,Python
