@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=151%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=152%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
 
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
-[![Problems Solved](https://img.shields.io/badge/Solved-151-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Problems Solved](https://img.shields.io/badge/Solved-152-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
-[![Last Updated](https://img.shields.io/badge/Updated-15%20Aug%202026%2015%3A51%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Last Updated](https://img.shields.io/badge/Updated-16%20Aug%202026%2010%3A23%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
 
 </div>
 
@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 82 | ![Easy](https://img.shields.io/badge/Easy-82-00b8a3?style=flat-square) |
-| 🟡 Medium | 59 | ![Medium](https://img.shields.io/badge/Medium-59-ffc01e?style=flat-square) |
+| 🟡 Medium | 60 | ![Medium](https://img.shields.io/badge/Medium-60-ffc01e?style=flat-square) |
 | 🔴 Hard | 10 | ![Hard](https://img.shields.io/badge/Hard-10-ef4743?style=flat-square) |
-| **Total** | **151** | ![Total](https://img.shields.io/badge/Total-151-blueviolet?style=flat-square) |
+| **Total** | **152** | ![Total](https://img.shields.io/badge/Total-152-blueviolet?style=flat-square) |
 
 </div>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-79.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
-[![C](https://img.shields.io/badge/C-17.9%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
+[![Python](https://img.shields.io/badge/Python-78.9%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
+[![C](https://img.shields.io/badge/C-18.4%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
 [![Java](https://img.shields.io/badge/Java-2.0%25-007396?style=for-the-badge&logo=oracle&logoColor=white)](./Java)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0.7%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./JavaScript)
 
@@ -66,6 +66,7 @@
 | 21 | Merge Two Sorted Lists | 🟢 Easy | C |
 | 22 | Generate Parentheses | 🟡 Medium | Python |
 | 23 | Merge k Sorted Lists | 🔴 Hard | C |
+| 24 | Swap Nodes in Pairs | 🟡 Medium | C |
 | 25 | Reverse Nodes in k-Group | 🔴 Hard | C |
 | 26 | Remove Duplicates from Sorted Array | 🟢 Easy | Java |
 | 27 | Remove Element | 🟢 Easy | Python |
@@ -201,7 +202,7 @@
 
 > 💡 **"Every problem solved is a new pattern learned."**
 
-*Auto-generated on 15 Aug 2026 15:51 UTC*
+*Auto-generated on 16 Aug 2026 10:23 UTC*
 
 [![Back to Profile](https://img.shields.io/badge/←%20Back%20to%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hari-preetham-B)
 
