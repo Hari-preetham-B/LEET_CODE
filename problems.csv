@@ -158,3 +158,4 @@ number,title,difficulty,language
 835,Image Overlap,Medium,Python
 43,Multiply Strings ,Medium,Python
 1477,Find Two Non-overlapping Sub-arrays Each With Target Sum,Medium,Python
+30,Substring with Concatenation of All Words,Hard,Python
