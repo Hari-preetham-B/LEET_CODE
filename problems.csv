@@ -163,3 +163,4 @@ number,title,difficulty,language
 37,Sudoku Solver,Hard,Python
 142,Linked List Cycle II,Medium,Python
 1614,Maximum Nesting Depth of the Parentheses,Easy,Python
+1290,Convert Binary Number in a Linked List to Integer,Easy,Python
