@@ -166,3 +166,4 @@ number,title,difficulty,language
 1290,Convert Binary Number in a Linked List to Integer,Easy,Python
 1523,Count Odd Numbers in an Interval Range,Easy,Python
 92,Reverse Linked List II,Medium,Python
+2095,Delete the Middle Node of a Linked List,Medium,Python
