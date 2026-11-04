@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=167%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=168%20Problems%20Solved%20%7C%20Python%20%C2%B7%20Java%20%C2%B7%20C%20%C2%B7%20JavaScript&descAlignY=58&descSize=16"/>
 
 [![Profile](https://img.shields.io/badge/LeetCode-hari__preetham-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
-[![Problems Solved](https://img.shields.io/badge/Solved-167-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Problems Solved](https://img.shields.io/badge/Solved-168-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
 [![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hari-preetham-B/LEET_CODE)
-[![Last Updated](https://img.shields.io/badge/Updated-03%20Nov%202026%2013%3A13%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
+[![Last Updated](https://img.shields.io/badge/Updated-04%20Nov%202026%2008%3A01%20UTC-informational?style=for-the-badge)](https://github.com/Hari-preetham-B/LEET_CODE)
 
 </div>
 
@@ -18,9 +18,9 @@
 | Difficulty | Count | Badge |
 |---|---|---|
 | 🟢 Easy | 86 | ![Easy](https://img.shields.io/badge/Easy-86-00b8a3?style=flat-square) |
-| 🟡 Medium | 69 | ![Medium](https://img.shields.io/badge/Medium-69-ffc01e?style=flat-square) |
+| 🟡 Medium | 70 | ![Medium](https://img.shields.io/badge/Medium-70-ffc01e?style=flat-square) |
 | 🔴 Hard | 12 | ![Hard](https://img.shields.io/badge/Hard-12-ef4743?style=flat-square) |
-| **Total** | **167** | ![Total](https://img.shields.io/badge/Total-167-blueviolet?style=flat-square) |
+| **Total** | **168** | ![Total](https://img.shields.io/badge/Total-168-blueviolet?style=flat-square) |
 
 </div>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-80.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
-[![C](https://img.shields.io/badge/C-16.8%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
+[![Python](https://img.shields.io/badge/Python-81.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Python)
+[![C](https://img.shields.io/badge/C-16.7%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](./C)
 [![Java](https://img.shields.io/badge/Java-1.8%25-007396?style=for-the-badge&logo=oracle&logoColor=white)](./Java)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./JavaScript)
 
@@ -194,6 +194,7 @@
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | 🟢 Easy | Python |
 | 1929 | Concatenation of Array | 🟢 Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | 🟢 Easy | Python |
+| 2095 | Delete the Middle Node of a Linked List | 🟡 Medium | Python |
 | 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Python |
 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Python |
 | 2469 | Convert the Temperature | 🟢 Easy | Python |
@@ -217,7 +218,7 @@
 
 > 💡 **"Every problem solved is a new pattern learned."**
 
-*Auto-generated on 03 Nov 2026 13:13 UTC*
+*Auto-generated on 04 Nov 2026 08:01 UTC*
 
 [![Back to Profile](https://img.shields.io/badge/←%20Back%20to%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hari-preetham-B)
 
